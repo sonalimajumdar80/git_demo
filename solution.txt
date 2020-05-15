@@ -1,0 +1,11 @@
+adding the steps followed for the solution of the problem.
+1. cloned master
+2. added a new file photo.jpeg
+3. checked out solution branch
+4. deleted the file photo.jpeg
+5. added solution.txt in the solution branch
+6. saved and committed this file to solution branch
+7. set up the upstream for solution branch as the HEAD/master/origin
+8. fetched the changes from upstream master HEAD
+9. merged the complete contents to master
+10. cleaned up the solution branch.
